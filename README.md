@@ -1,0 +1,2 @@
+# GraphRAG
+Implementation of GraphRAG
